@@ -1,5 +1,5 @@
-# Copyright (c) 2025 Nand Yaduwanshi <NoxxOP>
-# Location: Supaul, Bihar
+# Copyright (c) 2025 PRIME <PRIME>
+# Location: KATIHAR, Bihar
 #
 # All rights reserved.
 #
@@ -36,13 +36,12 @@ except:
     exit()
 
 
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
-
+# ©️ Copyright Reserved - @PRIME  PRIME
 # ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
+# ©️ 2025 PRIMEX (aka @PRIMEXMUSIC)
 # 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# 📢 Telegram Channel : https://t.me/Primexmusicupdate
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From PRIME 

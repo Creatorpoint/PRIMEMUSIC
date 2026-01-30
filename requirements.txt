@@ -1,40 +1,40 @@
-pyrofork
-gTTS
-aiofiles
-aiohttp
-asyncio
-beautifulsoup4
-dnspython
-ffmpeg-python
-gitpython
-hachoir
-heroku3
-httpx
-motor
-numpy
-opencv-python
-pytz
-pillow==9.5.0
-psutil
-py-tgcalls==0.9.7
-pykeyboard
-kurigram==2.1.35
-python-dotenv
-pyyaml
-requests
-speedtest-cli
-spotipy
-tgcrypto
-telegraph 
-unidecode
-youtube-search
-youtube-search-python
-py-yt-search
-yt-dlp
-# ===========================================
-# ©️ 2025 Nand Yaduwanshi , aka @NoxxOP
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/PRIME_X_CHAT2
-# ===========================================
+# Telegram
+python-telegram-bot==13.15
+pyrogram==2.0.106
+tgcrypto==1.2.5
 
+# Web (Flask)
+flask==3.1.2
+werkzeug==3.1.5
+jinja2==3.1.6
+itsdangerous==2.2.0
+click==8.3.1
+blinker==1.9.0
 
+# Scheduler
+APScheduler==3.6.3
+pytz==2025.2
+tzlocal==5.3.1
+
+# Database
+pymongo==4.6.1
+dnspython==2.6.1
+
+# Requests
+requests==2.32.5
+urllib3==2.6.3
+charset-normalizer==3.4.4
+idna==3.11
+certifi==2026.1.4
+
+# Image (⚠️ STABLE)
+Pillow==10.2.0
+
+# Env
+python-dotenv==1.2.1
+
+# Utils
+six==1.17.0
+cachetools==4.2.2
+pysocks==1.7.1
+tornado==6.1

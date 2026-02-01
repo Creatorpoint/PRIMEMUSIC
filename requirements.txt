@@ -16,3 +16,9 @@ aiofiles
 beautifulsoup4
 requests
 python-dotenv
+
+py-yt-search
+httpx
+motor
+numpy
+hachoir

@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: shruti-music
+    name: PRIMEMUSIC-1
     env: python
     region: oregon
     plan: free
@@ -12,23 +12,23 @@ services:
 
     envVars:
       API_ID: 
-        value: 29448785
+        value: 36582999
       API_HASH: 
-        value: 599574f6aff0a09ebb76305b58e7e9c2
+        value: 7e0a1007a8fc56a275b2c61a42dd75de
       API_KEY:
         sync: false
       BOT_TOKEN:
         sync: false
       MONGO_DB_URI: 
-        value: mongodb+srv://pusers:nycreation@nycreation.pd4klp1.mongodb.net/?retryWrites=true&w=majority&appName=NYCREATION
+        value: mongodb+srv://primemusic:PremGupta@primedb.xxxxx.mongodb.net/ShrutiMusic
       OWNER_ID:
-        value: 7574330905
+        value: 8053529348
       OWNER_USERNAME:
-        value: WTF_WhyMeeh
+        value: PREMGUPTA3M
       BOT_USERNAME:
-        value: ShrutixMusicBot
+        value: Prime_music07_bot
       UPSTREAM_REPO:
-        value: https://github.com/NoxxOP/ShrutiMusic
+        value: https://github.com/Creatorpoint/PRIMEMUSIC.git
       STRING_SESSION:
         sync: false
       GIT_TOKEN:
@@ -38,18 +38,18 @@ services:
       HEROKU_APP_NAME:
         sync: false
       LOG_GROUP_ID:
-        value: -1002321189618
+        value:  -1003261923176
       SUPPORT_GROUP:
-        value: https://t.me/ShrutiBotsupport
+        value: https://t.me/PRIME_X_CHAT2
       SUPPORT_CHANNEL:
-        value: https://t.me/ShrutiBots
+        value: https://t.me/PRIME_MUSIC08
       INSTAGRAM:
-        value: https://instagram.com/yaduwanshi_nand
+        value: https://www.instagram.com/prem_gupta_2m?igsh=MWFiNGx5NTl6Y3Npdw==
       YOUTUBE:
-        value: https://youtube.com/@NandEditz
+        value: https://youtube.com/@teamprimex-l9r?si=gqVLn6KqADdSgQAa
       GITHUB:
-        value: https://github.com/NoxxOP
+        value: https://github.com/Creatorpoint/PRIMEMUSIC.git
       DONATE:
-        value: https://t.me/ShrutiBots/91
+        value: https://t.me/PRIME_MUSIC08/15
       START_IMG_URL:
         sync: false

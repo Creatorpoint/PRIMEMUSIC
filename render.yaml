@@ -1,10 +1,9 @@
 services:
-  - type: worker
+  - type: web
     name: PRIMEMUSIC-1
     env: python
     region: oregon
     plan: free
-    pythonVersion: 3.12.1
     buildCommand: |
       apt-get update && apt-get install -y ffmpeg
       pip install -r requirements.txt

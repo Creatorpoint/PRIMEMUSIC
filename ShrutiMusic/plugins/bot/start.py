@@ -25,12 +25,12 @@ from config import BANNED_USERS
 from strings import get_string
 
 
-DEVELOPER_NAME = "PRIME"
+DEVELOPER_NAME = "𝑷𝑹𝑬𝑴 𝑮𝑼𝑷𝑻𝑨"
 BOT_USERNAME = "Prime_music07_bot"
 
 SUPPORT_GROUP = "https://t.me/PRIME_X_CHAT2"
 SUPPORT_CHANNEL = "https://t.me/PRIME_MUSIC08"
-DEVELOPER_CONTACT = "https://t.me/nox_shadowx"
+DEVELOPER_CONTACT = "https://t.me/PREMGUPTA2M"
 
 ADD_TO_GROUP_URL = f"https://t.me/{BOT_USERNAME}?startgroup=true"
 
@@ -71,7 +71,7 @@ async def start_pm(client, message: Message, _):
 
             # ✅ Remove BlushMusicbot redirect link
             help_text = help_text.replace(
-                "https://t.me/BlushMusicbot?start=help",
+                "https://t.me/PRIME_X_CHAT2",
                 f"https://t.me/{BOT_USERNAME}?start=help"
             )
 

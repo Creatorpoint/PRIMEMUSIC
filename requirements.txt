@@ -15,9 +15,8 @@ opencv-python
 pytz
 pillow>=10.2.0
 psutil
-py-tgcalls==2.1.0
-ntgcalls==1.3.4
-pyrogram==2.0.106
+py-tgcalls==0.9.7
+ntgcalls==1.1.2
 pykeyboard
 kurigram==2.1.35
 python-dotenv
@@ -37,6 +36,7 @@ yt-dlp
 # 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
 # 📢 Telegram Channel : https://t.me/ShrutiBots
 # ===========================================
+
 
 
 

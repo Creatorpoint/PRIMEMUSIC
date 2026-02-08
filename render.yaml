@@ -8,6 +8,7 @@ services:
       apt-get update && apt-get install -y ffmpeg
       pip install -r requirements.txt
     startCommand: python3 -m ShrutiMusic
+    pythonVersion: 3.10.13
     autoDeploy: true
 
     envVars:
@@ -38,7 +39,7 @@ services:
       HEROKU_APP_NAME:
         sync: false
       LOG_GROUP_ID:
-        value:  -1003261923176
+        value: -1003261923176
       SUPPORT_GROUP:
         value: https://t.me/PRIME_X_CHAT2
       SUPPORT_CHANNEL:

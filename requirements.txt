@@ -16,6 +16,7 @@ pytz
 pillow>=10.2.0
 psutil
 py-tgcalls==1.2.9
+ntgcalls==1.2.3
 pykeyboard
 kurigram==2.1.35
 python-dotenv
@@ -35,6 +36,7 @@ yt-dlp
 # 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
 # 📢 Telegram Channel : https://t.me/ShrutiBots
 # ===========================================
+
 
 
 

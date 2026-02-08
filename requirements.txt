@@ -5,7 +5,6 @@ tgcrypto
 
 # Voice Call (MOST IMPORTANT FIX)
 pytgcalls==2.0.0
-tgcalls==2.0.0
 
 # Audio / Media
 gTTS
@@ -44,3 +43,4 @@ kurigram==2.1.35
 motor
 gitpython
 heroku3
+

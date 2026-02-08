@@ -1,46 +1,38 @@
-# Core
-pyrofork==2.3.68
-pyrogram==2.0.106
-tgcrypto
-
-# Voice Call (MOST IMPORTANT FIX)
-pytgcalls==2.0.0
-
-# Audio / Media
+pyrofork
 gTTS
-ffmpeg-python
-hachoir
-pillow==10.2.0
-opencv-python
-yt-dlp
-
-# Async / Network
 aiofiles
 aiohttp
-httpx
-requests
+asyncio
+beautifulsoup4
 dnspython
-
-# Utilities
+ffmpeg-python
+gitpython
+hachoir
+heroku3
+httpx
+motor
 numpy
+opencv-python
 pytz
+pillow==9.5.0
 psutil
+py-tgcalls==0.9.7
+pykeyboard
+kurigram==2.1.35
 python-dotenv
 pyyaml
+requests
 speedtest-cli
 spotipy
-telegraph
+tgcrypto
+telegraph 
 unidecode
-
-# Telegram / Search
-beautifulsoup4
 youtube-search
 youtube-search-python
 py-yt-search
-kurigram==2.1.35
-
-# Database / Git
-motor
-gitpython
-heroku3
-
+yt-dlp
+# ===========================================
+# ©️ 2025 Nand Yaduwanshi , aka @NoxxOP
+# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
+# 📢 Telegram Channel : https://t.me/ShrutiBots
+# ===========================================

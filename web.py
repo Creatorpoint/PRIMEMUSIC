@@ -1,4 +1,5 @@
 import os
+import threading
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 PORT = int(os.environ.get("PORT", 10000))
@@ -10,4 +11,7 @@ class Handler(BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(b"PrimeMusic is running!")
 
-HTTPServer(("0.0.0.0", PORT), Handler).serve_forever()
+def run_server():
+    HTTPServer(("0.0.0.0", PORT), Handler).serve_forever()
+
+threading.Thread(target=run_server, daemon=True).start()

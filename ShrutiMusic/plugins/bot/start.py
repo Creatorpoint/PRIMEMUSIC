@@ -72,7 +72,7 @@ async def start_pm(client, message: Message, _):
             # ✅ Remove BlushMusicbot redirect link
             help_text = help_text.replace(
                 "https://t.me/PRIME_X_CHAT2",
-                f"https://t.me/{BOT_USERNAME}?start=help"
+                f"https://t.me/Prime_music07_bot?start=help"
             )
 
             return await message.reply_text(
